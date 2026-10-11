@@ -69,7 +69,7 @@ $ANDROID_HOME/build-tools/<version>/aapt2 dump permissions app/build/outputs/apk
 - **GitHub releases:** the signed APK of every version.
 - **From source:** see [Build](#build). The APK you get is unsigned; sign it with your own key.
 
-The APK from F-Droid and the one on the [GitHub releases](https://github.com/sappafrancesco/vallaury-android/releases)
+The APK from F-Droid and the one on the [GitHub releases](https://github.com/Vallaury/vallaury-android/releases)
 are the same file, signed with the project key (certificate SHA-256 `C4:A8:91:E0:6C:1C:79:8F:BA:D8:F5:F2:D6:D9:EF:9B:47:A3:06:6D:EE:14:10:A7:9B:B0:17:80:9B:E9:6C:E7`). An APK from Google Play is signed by Google and your own build by you. Android will not install one over another with a different key: uninstall first. The app keeps no data, so nothing is lost.
 
 ## How it opens the website

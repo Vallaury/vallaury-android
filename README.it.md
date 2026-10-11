@@ -68,7 +68,7 @@ $ANDROID_HOME/build-tools/<versione>/aapt2 dump permissions app/build/outputs/ap
 - **Release di GitHub:** l'APK firmato di ogni versione.
 - **Dai sorgenti:** vedi [Compilazione](#compilazione). L'APK che ottieni non è firmato: firmalo con la tua chiave.
 
-L'APK di F-Droid e quello nelle [release di GitHub](https://github.com/sappafrancesco/vallaury-android/releases) sono lo
+L'APK di F-Droid e quello nelle [release di GitHub](https://github.com/Vallaury/vallaury-android/releases) sono lo
 stesso file, firmato con la chiave del progetto (SHA-256 del certificato `C4:A8:91:E0:6C:1C:79:8F:BA:D8:F5:F2:D6:D9:EF:9B:47:A3:06:6D:EE:14:10:A7:9B:B0:17:80:9B:E9:6C:E7`). Un APK di Google Play è firmato da Google e una tua compilazione da te. Android non permette di installarne uno sopra l'altro con una chiave diversa: prima disinstalla. L'app non tiene dati, quindi non perdi nulla.
 
 ## Come apre il sito

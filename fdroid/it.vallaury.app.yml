@@ -9,15 +9,15 @@ Categories:
 License: GPL-3.0-only
 AuthorName: sappafrancesco
 WebSite: https://app.vallaury.it
-SourceCode: https://github.com/sappafrancesco/vallaury-android
-IssueTracker: https://github.com/sappafrancesco/vallaury-android/issues
-Changelog: https://github.com/sappafrancesco/vallaury-android/blob/HEAD/CHANGELOG.md
+SourceCode: https://github.com/Vallaury/vallaury-android
+IssueTracker: https://github.com/Vallaury/vallaury-android/issues
+Changelog: https://github.com/Vallaury/vallaury-android/blob/HEAD/CHANGELOG.md
 
 AutoName: Vallaury
 
 RepoType: git
-Repo: https://github.com/sappafrancesco/vallaury-android.git
-Binaries: https://github.com/sappafrancesco/vallaury-android/releases/download/v%v/vallaury-%v.apk
+Repo: https://github.com/Vallaury/vallaury-android.git
+Binaries: https://github.com/Vallaury/vallaury-android/releases/download/v%v/vallaury-%v.apk
 
 Builds:
   - versionName: 1.0.0
