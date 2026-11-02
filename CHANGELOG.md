@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Minimum Android version is now 7.0 (API 24), required by the updated browser helper library.
+- Updated the browser helper library (2.7.4), Android Gradle Plugin (9.5.0) and Gradle (9.8.2).
+
 ## 1.0.0
 
 First public release.

@@ -1,0 +1,1 @@
+Ora serve Android 7.0 o successivo. Aggiornate le librerie e gli strumenti di compilazione.
