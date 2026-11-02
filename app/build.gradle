@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId 'it.vallaury.app'
-        minSdk 23
+        minSdk 24
         targetSdk 36
         versionCode 1
         versionName '1.0.0'
@@ -39,5 +39,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.6.2'
+    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.7.4'
 }

@@ -7,7 +7,7 @@
 **Orario, compiti, verifiche e appunti della tua classe, come app.**
 
 [![Licenza: GPL v3](https://img.shields.io/badge/licenza-GPL--3.0--only-blue.svg)](LICENSE)
-![Min SDK](https://img.shields.io/badge/minSdk-23-informational)
+![Min SDK](https://img.shields.io/badge/minSdk-24-informational)
 ![Permessi](https://img.shields.io/badge/permessi-1-success)
 ![Tracker](https://img.shields.io/badge/tracker-0-success)
 
@@ -34,7 +34,7 @@ appena vengono pubblicate.
 | | |
 |---|---|
 | Pacchetto | `it.vallaury.app` |
-| SDK minimo / di destinazione | 23 (Android 6.0) / 36 |
+| SDK minimo / di destinazione | 24 (Android 7.0) / 36 |
 | Codice dell'app | questo repository, [GPL-3.0-only](LICENSE) |
 | Codice del servizio | non pubblicato |
 
