@@ -7,7 +7,7 @@
 **Timetable, homework, exams and notes of your class, as an app.**
 
 [![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0--only-blue.svg)](LICENSE)
-![Min SDK](https://img.shields.io/badge/minSdk-23-informational)
+![Min SDK](https://img.shields.io/badge/minSdk-24-informational)
 ![Permissions](https://img.shields.io/badge/permissions-1-success)
 ![Trackers](https://img.shields.io/badge/trackers-0-success)
 
@@ -34,7 +34,7 @@ the app as soon as they are deployed.
 | | |
 |---|---|
 | Package | `it.vallaury.app` |
-| Min / target SDK | 23 (Android 6.0) / 36 |
+| Min / target SDK | 24 (Android 7.0) / 36 |
 | Language | Italian |
 | Source of the app | this repository, [GPL-3.0-only](LICENSE) |
 | Source of the service | not published |
